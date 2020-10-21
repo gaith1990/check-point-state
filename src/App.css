@@ -1,5 +1,8 @@
+
+
 .App {
   text-align: center;
+  background-color: red !important;
 }
 
 .App-logo {
@@ -36,3 +39,16 @@
     transform: rotate(360deg);
   }
 }
+Button{ 	 padding: 15px 25px;
+  font-size: 24px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: #4CAF50;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;}
+  .bar{    display: flex !important;
+    justify-content: space-between !important;}
+    .profile{text-align: center !important;}
